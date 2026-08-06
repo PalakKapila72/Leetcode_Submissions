@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
 ## Two Pointers
 |  |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
