@@ -9,32 +9,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1683-invalid-tweets) |
+## Binary Search
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
