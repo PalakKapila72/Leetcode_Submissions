@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
