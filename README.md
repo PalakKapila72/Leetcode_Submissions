@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
@@ -109,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
