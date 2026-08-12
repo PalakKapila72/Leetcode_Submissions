@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0907-sum-of-subarray-minimums](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -111,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Stack
 |  |
@@ -159,4 +163,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
