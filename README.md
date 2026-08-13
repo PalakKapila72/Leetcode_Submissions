@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
