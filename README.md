@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [2402-meeting-rooms-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2402-meeting-rooms-iii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -241,4 +245,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
