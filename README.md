@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0647-palindromic-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0647-palindromic-substrings) |
+| [1021-remove-outermost-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
