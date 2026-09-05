@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0647-palindromic-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0647-palindromic-substrings) |
 | [1021-remove-outermost-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+| [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
