@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
