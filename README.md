@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
