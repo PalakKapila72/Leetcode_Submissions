@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0647-palindromic-substrings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -354,4 +357,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
