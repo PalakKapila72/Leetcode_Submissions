@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0142-linked-list-cycle-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
