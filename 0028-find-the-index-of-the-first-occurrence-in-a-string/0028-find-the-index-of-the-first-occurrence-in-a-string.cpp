@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void lpsfind(vector<int> &lps,string needle){
+    vector<int> findlps(vector<int> &lps,string needle){
         int pre=0,suff=1;
         while(suff<needle.size()){
             if(needle[pre]==needle[suff]){
@@ -10,18 +10,22 @@ public:
             }
             else{
                 if(pre==0){
-                    suff++;
+                lps[suff]=0;
+                suff++;
+
                 }
                 else{
                     pre=lps[pre-1];
                 }
+
             }
         }
+        return lps;
     }
     int strStr(string haystack, string needle) {
-        int first=0,second=0;
         vector<int> lps(needle.size(),0);
-        lpsfind(lps,needle);
+        findlps(lps,needle);
+        int first=0,second=0;
         while(first<haystack.size()&&second<needle.size()){
             if(haystack[first]==needle[second]){
                 first++;
@@ -30,6 +34,7 @@ public:
             else{
                 if(second==0){
                     first++;
+
                 }
                 else{
                     second=lps[second-1];
