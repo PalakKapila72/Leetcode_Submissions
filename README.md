@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
 |  |
