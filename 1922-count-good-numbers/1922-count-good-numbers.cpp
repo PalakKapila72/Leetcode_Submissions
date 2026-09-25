@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long MOD=1e9+7;
-    long long power(long long x,long long n){
+    long long power(int x,long long n){
         if(n==0){
             return 1;
         }
