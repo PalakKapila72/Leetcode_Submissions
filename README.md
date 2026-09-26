@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
 |  |
