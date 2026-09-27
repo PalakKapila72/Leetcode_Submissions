@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
@@ -437,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1143-longest-common-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
