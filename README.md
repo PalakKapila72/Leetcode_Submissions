@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0647-palindromic-substrings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
