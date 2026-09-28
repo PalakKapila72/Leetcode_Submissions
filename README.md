@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0647-palindromic-substrings) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+| [0282-expression-add-operators](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
 |  |
