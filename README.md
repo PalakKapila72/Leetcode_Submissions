@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1539-kth-missing-positive-number) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2402-meeting-rooms-iii) |
 ## Data Stream
 |  |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0994-rotting-oranges) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -498,4 +502,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0037-sudoku-solver) |
+## Graph Theory
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## 0-1 BFS
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
