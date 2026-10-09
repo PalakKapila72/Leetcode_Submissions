@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -354,10 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
@@ -523,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
