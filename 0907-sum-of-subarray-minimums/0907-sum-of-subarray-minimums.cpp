@@ -1,38 +1,46 @@
 class Solution {
 public:
-    int sumSubarrayMins(vector<int>& arr) {
-        stack<int> st1;
-        stack<int> st2;
+    vector<int> nse(vector<int>& arr){
         int n=arr.size();
-        vector<int> nse(n,n);
-        vector<int> pse(n,-1);
-        
-        for(int i=0;i<n;i++){
-            int current=arr[i];
-            while(!st1.empty() && arr[st1.top()]>current){
-                st1.pop();
-            }
-            if(!st1.empty()){
-                pse[i]=st1.top();
-            }
-            st1.push(i);
-        }
+        vector<int> nse(n);
+        stack<int> st;
         for(int i=n-1;i>=0;i--){
-            int current=arr[i];
-            while(!st2.empty() && arr[st2.top()]>=current){
-                st2.pop();
+            while(!st.empty()&&arr[st.top()]>=arr[i]){
+                st.pop();
             }
-            if(!st2.empty()){
-                nse[i]=st2.top();
-            }
-            st2.push(i);
+            nse[i]=st.empty()?n:st.top();
+            st.push(i);     
         }
-        long long ans=0,mod=1e9+7;
+        return nse;
+    }
+    vector<int> psee(vector<int> &arr){
+        int n=arr.size();
+        vector<int> psee(n);
+        stack<int> st;
         for(int i=0;i<n;i++){
-            long long curr=1LL*(nse[i]-i)*(i-pse[i])*arr[i];
-            ans=(ans+curr)%mod;
+            while(!st.empty()&&arr[st.top()]>arr[i]){
+                st.pop();
+            }
+            psee[i]=st.empty()?-1:st.top();
+            st.push(i);
         }
-        return ans;
-       
+        return psee;
+    }
+    int sumSubarrayMins(vector<int>& arr) {
+        int mod=(int)(1e9+7);
+        long long total=0;
+        int n=arr.size();
+        vector<int> nseArr(n);
+        vector<int> pseeArr(n);
+        nseArr=nse(arr);
+        pseeArr=psee(arr);
+        for(int i=0;i<n;i++){
+            long long left=i-pseeArr[i];
+            long long right=nseArr[i]-i;
+            long long contribution=(1LL*left*right%mod*arr[i])%mod;
+            total=(total+contribution)%mod;
+        }
+        return total;
+    
     }
 };
