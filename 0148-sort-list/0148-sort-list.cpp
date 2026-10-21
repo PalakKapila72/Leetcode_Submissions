@@ -10,61 +10,45 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* left,ListNode* right){
-        ListNode* head=nullptr;
-        ListNode* temp1=left;
-        ListNode* temp2=right;
-        if(temp1->val<temp2->val){
-            head=temp1;
-            temp1=temp1->next;
-        }
-        else{
-            head=temp2;
-            temp2=temp2->next;
-        }
-        ListNode* temp=head;
-        while(temp1!=nullptr && temp2!=nullptr){
-            if(temp1->val<temp2->val){
-                temp->next=temp1;
-                temp1=temp1->next;
-                temp=temp->next;
-
+    ListNode* merge(ListNode* head1,ListNode* head2){
+        ListNode* dummy=new ListNode(INT_MIN);
+        ListNode* tail=dummy;
+        while(head1 && head2){
+            if(head1->val<=head2->val){
+                tail->next=head1;
+                tail=tail->next;
+                head1=head1->next;
             }
             else{
-                temp->next=temp2;
-                temp2=temp2->next;
-                temp=temp->next;
+                tail->next=head2;
+                tail=tail->next;
+                head2=head2->next;
             }
         }
-        if(temp1!=nullptr){
-            
-            temp->next=temp1;
-            temp=temp->next;
+        if(head1){
+            tail->next=head1;
         }
-        else{
-           
-            temp->next=temp2;
-            temp=temp->next;
+        if(head2){
+            tail->next=head2;
         }
-        return head;;
+        return dummy->next;
     }
     ListNode* sortList(ListNode* head) {
-        if(head==nullptr||head->next==nullptr){
+        if(head==nullptr || head->next==nullptr){
             return head;
         }
         ListNode* slow=head;
-        ListNode* fast=head;
-        ListNode* prev=nullptr;
+        ListNode* fast=head->next;
         while(fast!=nullptr && fast->next!=nullptr){
-            prev=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
-        prev->next=nullptr;
-        ListNode* left=sortList(head);
-        ListNode* right=sortList(slow);
-        return merge(left,right);
+        ListNode* second=slow->next;
+        slow->next=nullptr;
+        ListNode* a=sortList(head);
+        ListNode* b=sortList(second);
+       
+        return merge(a,b);
 
-        
     }
 };
