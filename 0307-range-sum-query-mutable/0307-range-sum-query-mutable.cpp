@@ -1,64 +1,36 @@
 class NumArray {
 public:
-    vector<int> seg;
+    vector<int> nums,bit;
     int n;
-
-    void build(int idx, int l, int r, vector<int>& nums) {
-        if (l == r) {
-            seg[idx] = nums[l];
-            return;
-        }
-
-        int mid = (l + r) / 2;
-        build(2 * idx + 1, l, mid, nums);
-        build(2 * idx + 2, mid + 1, r, nums);
-
-        seg[idx] = seg[2 * idx + 1] + seg[2 * idx + 2];
-    }
-
-    void updateTree(int idx, int l, int r, int pos, int val) {
-        if (l == r) {
-            seg[idx] = val;
-            return;
-        }
-
-        int mid = (l + r) / 2;
-
-        if (pos <= mid)
-            updateTree(2 * idx + 1, l, mid, pos, val);
-        else
-            updateTree(2 * idx + 2, mid + 1, r, pos, val);
-
-        seg[idx] = seg[2 * idx + 1] + seg[2 * idx + 2];
-    }
-
-    int query(int idx, int l, int r, int ql, int qr) {
-        // complete overlap
-        if (ql <= l && r <= qr)
-            return seg[idx];
-
-        // no overlap
-        if (r < ql || l > qr)
-            return 0;
-
-        int mid = (l + r) / 2;
-
-        return query(2 * idx + 1, l, mid, ql, qr) +
-               query(2 * idx + 2, mid + 1, r, ql, qr);
-    }
-
     NumArray(vector<int>& nums) {
-        n = nums.size();
-        seg.resize(4 * n);
-        build(0, 0, n - 1, nums);
+        this->n=nums.size();
+        this->nums=nums;
+        this->bit.resize(this->n+1,0);
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<=n;j+=(j&(-j))){
+                bit[j]+=nums[i];
+            }
+        }
     }
-
+    
     void update(int index, int val) {
-        updateTree(0, 0, n - 1, index, val);
+        int change=val-nums[index];
+        int n=nums.size();
+        for(int i=index+1;i<=n;i+=(i&-i)){
+            bit[i]+=change;
+        }
+        nums[index]=val;
     }
-
+    int sum(int index){
+        int ans=0;
+        for(int i=index+1;i>0;i-=(i&(-i))){
+            ans+=bit[i];
+        }
+        return ans;
+    }
+    
     int sumRange(int left, int right) {
-        return query(0, 0, n - 1, left, right);
+        return sum(right)-sum(left-1);
     }
 };
 
