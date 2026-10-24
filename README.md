@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -580,4 +584,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0968-binary-tree-cameras) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
