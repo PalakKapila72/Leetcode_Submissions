@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0904-fruit-into-baskets) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
@@ -378,11 +380,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 ## Quicksort
 |  |
 | ------- |
