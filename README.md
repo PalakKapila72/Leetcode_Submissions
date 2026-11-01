@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0187-repeated-dna-sequences) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0282-expression-add-operators) |
