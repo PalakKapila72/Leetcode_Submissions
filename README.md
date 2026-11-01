@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Meet in the Middle
 |  |
 | ------- |
