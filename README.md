@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -605,4 +607,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
