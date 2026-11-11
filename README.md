@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0735-asteroid-collision) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2402-meeting-rooms-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2402-meeting-rooms-iii) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2402-meeting-rooms-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2402-meeting-rooms-iii) |
 ## Data Stream
@@ -450,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
