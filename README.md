@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
 | [1755-closest-subsequence-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2402-meeting-rooms-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/2402-meeting-rooms-iii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
