@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0260-single-number-iii) |
 | [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0485-max-consecutive-ones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -254,12 +257,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0621-task-scheduler) |
@@ -530,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Manacher
 |  |
@@ -658,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/PalakKapila72/Leetcode_Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Tournament Sort
 |  |
 | ------- |
