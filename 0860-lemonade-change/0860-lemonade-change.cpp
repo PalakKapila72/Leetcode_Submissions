@@ -11,8 +11,10 @@ public:
                 if(five==0){
                     return false;
                 }
-                five--;
-                ten++;
+                else{
+                    five--;
+                    ten++;
+                }
             }
             else{
                 if(five>0 && ten>0){
@@ -25,7 +27,6 @@ public:
                 else{
                     return false;
                 }
-
             }
         }
         return true;
