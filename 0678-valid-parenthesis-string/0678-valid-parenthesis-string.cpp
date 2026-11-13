@@ -3,12 +3,12 @@ public:
     bool checkValidString(string s) {
         int minopen=0;
         int maxopen=0;
-        for(char c:s){
-            if(c=='('){
+        for(char ch:s){
+            if(ch=='('){
                 minopen++;
                 maxopen++;
             }
-            else if(c==')'){
+            else if(ch==')'){
                 minopen--;
                 maxopen--;
             }
@@ -16,11 +16,9 @@ public:
                 minopen--;
                 maxopen++;
             }
-        
-        if(maxopen<0){
-            return false;
-        }
+            
         minopen=max(0,minopen);
+        if(maxopen<0) return false;
         }
         return minopen==0;
     }
